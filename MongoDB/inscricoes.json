@@ -1,0 +1,42 @@
+[
+{
+	"aluno": "Fabiano Perez",
+	"localizacao": { "type": "Point", "coordinates": [-20.388008, -54.577546]}
+},
+{
+	"aluno": "Guilherme Dantas",
+	"localizacao": { "type": "Point", "coordinates": [-20.363890, -54.572113]}
+},
+{
+	"aluno": "Fernanda da Silva",
+	"localizacao": { "type": "Point", "coordinates": [-20.362981, -54.589102]}
+},
+{
+	"aluno": "Angela Souza",
+	"localizacao": { "type": "Point", "coordinates": [-20.393017, -54.565923]}
+},
+{
+	"aluno": "Jair Rodrigues",
+	"localizacao": { "type": "Point", "coordinates": [-20.371926, -54.561802]}
+},
+{
+	"aluno": "Gabriela",
+	"localizacao": { "type": "Point", "coordinates": [-20.353915, -54.571803]}
+},
+{
+	"aluno": "Ana",
+	"localizacao": { "type": "Point", "coordinates": [-20.388263, -54.591023]}
+},
+{
+	"aluno": "Larissa",
+	"localizacao": { "type": "Point", "coordinates": [-20.301829, -54.561729]}
+},
+{
+	"aluno": "Guilherme",
+	"localizacao": { "type": "Point", "coordinates": [-20.361803, -54.562801]}
+},
+{
+	"aluno": "Rodrigo",
+	"localizacao": { "type": "Point", "coordinates": [-20.363891, -54.571993]}
+}
+]
