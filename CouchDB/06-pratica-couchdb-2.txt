@@ -1,0 +1,28 @@
+[CouchDB fornece uma ] -> API REST
+
+[Aplicacoes web e Mobile] -> Consomem recursos atraves da internet
+
+[recursos da internet] -> API REST
+
+[REST] -> Padrao do Protocolo HTTP
+
+[Verbos/Metodos HTTP] -> GET, POST, PUT, DELETE
+
+[GET] -> Utilizamos quando acessamos um recurso na web;
+
+[POST] -> Utilizamos quando criamos um novo recurso na web;
+
+[PUT] -> Utilizamos quando atualizamos um recurso existente na web;
+
+[DELETE] -> Utilizamos quando deletamos/excluimos um recurso existente na web;
+
+[CRUD] -> Create (POST), Retreave (GET), Update (PUT), Delete (DELETE)
+
+[Frontend] <-> [Backend] (Na Geek University usamos Python/Django e PostgreSQL)  
+
+[Frontend] <-> [API REST do CouchDB]
+
+[GET] -> Considerado um metodo/verbo HTTP seguro. Nao exige autenticacao.
+
+[PUT, POST, DELETE] -> Considerados metodos/verbos HTTP inseguros. Recomenda-se
+autenticacao.
