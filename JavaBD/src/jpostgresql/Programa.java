@@ -1,4 +1,4 @@
-package jbase;
+package jpostgresql;
 
 
 public class Programa {
