@@ -1,5 +1,4 @@
-package jbase;
-
+package jmongodb;
 
 public class Programa {
 
