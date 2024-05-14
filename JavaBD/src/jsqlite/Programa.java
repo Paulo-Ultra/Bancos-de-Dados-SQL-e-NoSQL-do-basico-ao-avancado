@@ -1,4 +1,4 @@
-package jbase;
+package jsqlite;
 
 
 public class Programa {
